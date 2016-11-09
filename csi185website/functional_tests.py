@@ -29,7 +29,9 @@ class NewVisitorTest(unittest.TestCase):
     def test_home_page(self):
         """
 
-        Put your description of the purpose of your web site here.
+        With higher functioning communication techniques anything is possible within a long distance relationship, but
+        factors within that relationship could be altered.
+        This project explores these variables within young Americans in modern relationships over varying spatial differences.
 
         """
 
