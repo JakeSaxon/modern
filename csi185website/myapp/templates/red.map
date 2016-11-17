@@ -1,0 +1,10 @@
+<img src="/static/red.jpg" width="600" height="450" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Jacob Saxon -->
+<area id="begin" shape="poly" coords="463,130,397,171,467,237,540,188,522,176" href="begin.html" />
+</map>
